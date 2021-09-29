@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import RegisterationForm from './components/RegisterationForm';
 import Welcome from "./components/Welcome";
 import SignIn from './components/SignIn';
-
+import "./App.css";
 
 function App() {
   return (

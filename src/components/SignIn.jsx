@@ -44,6 +44,10 @@ export default function SignIn() {
       <Container component="main" maxWidth="xs">
         <CssBaseline />
         <Box
+        bgcolor= "honeydew"
+        border={4}
+        borderColor="transparent"
+        borderRadius="15px"
           sx={{
             marginTop: 8,
             display: 'flex',
